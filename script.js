@@ -11,7 +11,7 @@ const scenes = {
     },
     2: {
         text: "O time escuta, mas fica inseguro sobre o impacto. Como responder?",
-        img: "img/scene2.png",
+        img: "equipe cao.png",
         choices: {
             a: { text: "Promover um workshop sobre diversidade", next: 4 },
             b: { text: "Seguir com a política sem mais discussões", next: 5 }
