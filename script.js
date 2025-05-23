@@ -22,7 +22,7 @@ const scenes = {
         img: "img/scene3.png",
         choices: {
             a: { text: "Sim, reavaliar e retomar a pauta de inclusão", next: 2 },
-            b: { text: "Não, manter o status quo", next: 7 }
+            b: { text: "Não, manter a minha decisão", next: 7 }
         }
     },
     4: {
