@@ -3,7 +3,7 @@ let scene = 1;
 const scenes = {
     1: {
         text: "Você é gestor(a) de RH em uma grande empresa. A diretoria sugere implementar uma política de cotas. O que você faz?",
-        img: "img/scene1.png",
+        img: "gestor rh.png",
         choices: {
             a: { text: "Apresentar a proposta ao time com dados e exemplos", next: 2 },
             b: { text: "Ignorar a sugestão por medo de resistência", next: 3 }
